@@ -133,23 +133,7 @@ export default function Contact() {
               ))}
             </div>
 
-            <div className="mt-8">
-              <h4 className="font-semibold mb-4">Follow Me</h4>
-              <div className="flex space-x-4">
-                {socialLinks.map((social) => (
-                  <a
-                    key={social.label}
-                    href={social.href}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="w-10 h-10 bg-gray-700 rounded-lg flex items-center justify-center hover:bg-primary transition-colors"
-                    aria-label={social.label}
-                  >
-                    <social.icon className="text-white h-5 w-5" />
-                  </a>
-                ))}
-              </div>
-            </div>
+         
           </motion.div>
 
           <motion.div
