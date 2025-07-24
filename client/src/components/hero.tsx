@@ -86,7 +86,7 @@ export default function Hero() {
             className="lg:text-center"
           >
             <img
-              src="amit_singh.png&auto=format&fit=crop&w=800&h=800"
+              src="/client/src/components/amit_singh.png&auto=format&fit=crop&w=800&h=800"
               alt="Amit Singh"
               className="w-80 h-80 rounded-full mx-auto shadow-2xl object-cover"
             />
