@@ -10,12 +10,7 @@ export default function Footer() {
     }
   };
 
-  const navItems = [
-    { label: "About", id: "about" },
-    { label: "Services", id: "services" },
-    { label: "Portfolio", id: "portfolio" },
-    { label: "Contact", id: "contact" },
-  ];
+ 
 
   return (
     
