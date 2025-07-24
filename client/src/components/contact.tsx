@@ -17,8 +17,8 @@ export default function Contact() {
     {
       icon: Mail,
       title: "Email",
-      value: "alex@alexjohnsondev.com",
-      href: "mailto:alex@alexjohnsondev.com",
+      value: "amitsingh9thjan@gmail.com",
+      href: "mailto:amitsingh9thjan@gmail.com",
     },
     {
       icon: Phone,
@@ -27,16 +27,16 @@ export default function Contact() {
       href: "tel:+1234567890",
     },
     {
-      icon: SiUpwork,
+      icon: Upwork,
       title: "Upwork Profile",
-      value: "/freelancers/~alexjohnson",
-      href: "https://www.upwork.com/freelancers/~alexjohnson",
+      value: "/freelancers/~01ddf3e5b98d338342",
+      href: "https://www.upwork.com/freelancers/~01ddf3e5b98d338342",
     },
     {
-      icon: SiLinkedin,
+      icon: Linkedin,
       title: "LinkedIn",
-      value: "/in/alexjohnsondev",
-      href: "https://linkedin.com/in/alexjohnsondev",
+      value: "/in/amit-singh-9thjan",
+      href: "https://www.linkedin.com/in/amit-singh-9thjan/",
     },
   ];
 
