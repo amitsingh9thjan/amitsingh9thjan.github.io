@@ -21,10 +21,10 @@ export default function Contact() {
       href: "mailto:amitsingh9thjan@gmail.com",
     },
     {
-      icon: Phone,
-      title: "Phone",
-      value: "+1 (234) 567-8900",
-      href: "tel:+1234567890",
+      icon: Github,
+      title: "Github",
+      value: "amitsingh9thjan",
+      href: "https://github.com/amitsingh9thjan",
     },
     {
       icon: SiUpwork,
