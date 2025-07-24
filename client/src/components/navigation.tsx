@@ -50,7 +50,7 @@ export default function Navigation() {
             className="font-bold text-xl text-secondary cursor-pointer"
             onClick={() => scrollToSection("hero")}
           >
-            Alex Johnson
+            Amit Singh
           </div>
 
           {/* Desktop Navigation */}
