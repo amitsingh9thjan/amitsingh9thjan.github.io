@@ -27,13 +27,13 @@ export default function Contact() {
       href: "tel:+1234567890",
     },
     {
-      icon: Upwork,
+      icon: SiUpwork,
       title: "Upwork Profile",
       value: "/freelancers/~01ddf3e5b98d338342",
       href: "https://www.upwork.com/freelancers/~01ddf3e5b98d338342",
     },
     {
-      icon: Linkedin,
+      icon: SiLinkedin,
       title: "LinkedIn",
       value: "/in/amit-singh-9thjan",
       href: "https://www.linkedin.com/in/amit-singh-9thjan/",
