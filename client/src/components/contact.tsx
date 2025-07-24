@@ -173,35 +173,7 @@ export default function Contact() {
           viewport={{ once: true }}
           className="text-center mt-16"
         >
-          <div className="bg-gradient-to-r from-primary to-accent rounded-2xl p-8 md:p-12">
-            <h3 className="text-3xl font-bold mb-4">Ready to Start Your Project?</h3>
-            <p className="text-xl mb-8 opacity-90">
-              Let's discuss your requirements and create something amazing together.
-            </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button
-                size="lg"
-                className="bg-white text-primary font-bold hover:bg-gray-100"
-                onClick={() =>
-                  window.open("https://www.upwork.com/freelancers/~alexjohnson", "_blank")
-                }
-              >
-                <SiUpwork className="mr-2 h-4 w-4" />
-                Hire Me on Upwork
-              </Button>
-              <Button
-                size="lg"
-                variant="outline"
-                className="border-white text-white font-bold hover:bg-white hover:text-primary"
-                onClick={() =>
-                  window.open("mailto:alex@alexjohnsondev.com")
-                }
-              >
-                <Mail className="mr-2 h-4 w-4" />
-                Send Direct Email
-              </Button>
-            </div>
-          </div>
+          
         </motion.div>
       </div>
     </section>
