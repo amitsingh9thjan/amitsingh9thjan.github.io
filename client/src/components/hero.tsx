@@ -27,7 +27,7 @@ export default function Hero() {
               Professional{" "}
               <span className="text-primary">Web Developer</span>
               {" "}/{" "}
-              <span className="text-primary">AI & Automation Expert | n8n, Make.com, GPT-4, Replit, API Integration</span>
+              <span className="text-primary">AI & Automation Expert</span>
             </h1>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
               I create modern, responsive websites and digital solutions that
