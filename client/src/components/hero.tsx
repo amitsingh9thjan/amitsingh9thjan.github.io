@@ -24,8 +24,10 @@ export default function Hero() {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <motion.div {...fadeInUp}>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-secondary leading-tight mb-6">
-              Professional Freelance{" "}
+              Professional{" "}
               <span className="text-primary">Web Developer</span>
+              /{" "}
+              <span className="text-primary">AI & Automation Expert | n8n, Make.com, GPT-4, Claude, API Integration</span>
             </h1>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
               I create modern, responsive websites and digital solutions that
