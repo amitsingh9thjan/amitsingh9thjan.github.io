@@ -26,7 +26,7 @@ export default function Hero() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-secondary leading-tight mb-6">
               Professional{" "}
               <span className="text-primary">Web Developer</span>
-              /{" "}
+              {" "}/{" "}
               <span className="text-primary">AI & Automation Expert | n8n, Make.com, GPT-4, Replit, API Integration</span>
             </h1>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
