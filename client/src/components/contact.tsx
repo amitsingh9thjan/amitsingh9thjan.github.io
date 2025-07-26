@@ -17,8 +17,8 @@ export default function Contact() {
     {
       icon: Mail,
       title: "Email",
-      value: "amitsingh9thjan@gmail.com",
-      href: "mailto:amitsingh9thjan@gmail.com",
+      value: "asbinary@gmail.com",
+      href: "mailto:asbinary@gmail.com",
     },
     {
       icon: Github,
@@ -29,7 +29,7 @@ export default function Contact() {
     {
       icon: SiUpwork,
       title: "Upwork Profile",
-      value: "/freelancers/~01ddf3e5b98d338342",
+      value: "/freelancers/amits299",
       href: "https://www.upwork.com/freelancers/~01ddf3e5b98d338342",
     },
     {
@@ -69,17 +69,17 @@ export default function Contact() {
   const socialLinks = [
     {
       icon: Github,
-      href: "https://github.com/alexjohnsondev",
+      href: "https://github.com/amitsingh9thjan",
       label: "GitHub",
     },
     {
       icon: Twitter,
-      href: "https://twitter.com/alexjohnsondev",
+      href: "https://twitter.com/",
       label: "Twitter",
     },
     {
       icon: SiDribbble,
-      href: "https://dribbble.com/alexjohnsondev",
+      href: "https://dribbble.com/",
       label: "Dribbble",
     },
   ];
