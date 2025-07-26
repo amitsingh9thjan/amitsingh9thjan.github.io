@@ -39,7 +39,7 @@ export default function Hero() {
                 size="lg"
                 className="bg-primary hover:bg-primary/90 text-primary-foreground"
                 onClick={() =>
-                  window.open("https://www.upwork.com/freelancers/~alexjohnson", "_blank")
+                  window.open("https://www.upwork.com/freelancers/amits299, "_blank")
                 }
               >
                 <ExternalLink className="mr-2 h-4 w-4" />
